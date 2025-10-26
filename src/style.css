@@ -1,5 +1,17 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
+.contenedor{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: space-between;
+    padding-top: 50px;
+   
+}
+.boton{
+    margin-bottom: 50px;
+}
+.cajitaexcusa{
+    width: 900px;
+    height: 40px;
+
 }
